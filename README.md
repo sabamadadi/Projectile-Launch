@@ -1,4 +1,4 @@
-# Projectile-Physics-
+# Projectile Launch
 
 A projectile has v0 = 2 km/s,
 
